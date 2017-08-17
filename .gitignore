@@ -3,3 +3,4 @@
 images/
 detector_architectures/
 data/
+*.h5
